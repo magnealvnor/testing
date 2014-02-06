@@ -6,3 +6,7 @@ int foo(){
     int adoo;
     return funk+adoo;
 }
+
+void b2(){
+    // will it work?
+}
